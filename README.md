@@ -1,1 +1,1 @@
-## This project contains studies codes using only NodeJS, without any web frameworks like ExpressJS or AdonisJS.
+## This repository contains my studies codes using only NodeJS, without any web framework like ExpressJS.
